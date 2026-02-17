@@ -101,6 +101,7 @@ img{
 
 .container-fluid{
   margin-bottom: 0;
+  padding: 0;
 }
 
 /* .navbar-light{
@@ -119,7 +120,7 @@ img{
 
 .dc_body{
   background-color: white;
-  padding: 3% 15% 8% 15%;
+  padding: 2% 15% 8% 15%;
 }
 
 .accordion{

@@ -100,8 +100,12 @@ img{
 } */
 
 .container-fluid{
-  margin:0;
+  margin-bottom: 0;
 }
+
+/* .navbar-light{
+  margin-bottom: 0;
+} */
 
 
 
@@ -111,6 +115,11 @@ img{
 
 .subtitle{
   margin-bottom: 2rem;
+}
+
+.dc_body{
+  background-color: white;
+  padding: 3% 15% 8% 15%;
 }
 
 .accordion{
@@ -144,11 +153,6 @@ img{
 #collapseFour{
   padding: 0;
   margin: 0;
-}
-
-.dc_body{
-  background-color: white;
-  padding: 8% 15% 8% 15%;
 }
 
 .btn-outline-info{

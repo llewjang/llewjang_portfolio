@@ -1,0 +1,507 @@
+body{
+  background-color: white;
+  font-family: "Courier New", Monospace;
+}
+
+.index_body{
+  background-color: white;
+  padding: 8% 15% 8% 15%;
+  background-image: url("images/ConoPoster\ bw.png");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: 49%; 
+  background-position: right bottom;
+}
+
+h1{
+  color:rgb(46, 40, 40);
+  font-family: "Courier New", Monospace;
+
+  text-align: left;
+  font-size: 3rem;
+  font-weight: 200;
+  margin: 0 0 0 0;
+  padding: 0 0 3% 0;
+}
+
+h2{
+  text-align: left;
+  font-family: "Courier New", Monospace;
+  color:rgb(229, 63, 33);
+  font-size: 1.5rem;
+  font-weight: 200;
+  margin: 0 0 2rem 0;
+  padding: 0 0 3% 0;
+}
+
+h3{
+  text-align: left;
+  font-family: "Courier New", Monospace;
+  color:rgb(46, 40, 40);
+  font-size: 1rem;
+  font-weight: 300;
+  margin: 0 0 1rem 0;
+  padding: 0 0 4% 0;
+}
+
+h4{
+  text-align: left;
+  font-family: "Courier New", Monospace;
+  color:rgb(229, 63, 33);
+  font-size: 1.2rem;
+  font-style: italic;
+  font-weight: 300;
+  margin: 3rem 0 1rem 0;
+  padding: 0 0 1% 0;
+}
+
+.trick{
+  color: rgb(46, 40, 40);
+  font-size: 1.5rem;
+}
+
+div{
+  background-color: white;
+  padding: 1% 2% 2% 2%;
+  margin: 0% 0% 4% 0%;
+}
+
+.shadow{
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+}
+
+.button{
+  margin: 0 0 1.5% 0;
+  /* background-color: rgb(54, 54, 146); */
+  background-color: rgb(212, 212, 234);
+  border: 0px;
+  color: rgb(54, 54, 146);
+  border: 1px solid rgb(54, 54, 146);
+  border-radius: 2px;
+  font-family: "Courier New", Monospace;
+  padding: 5px;
+}
+
+img{
+  height: 20rem;
+  border-radius: 2px;
+}
+
+/*----------------NAVBAR----------------*/
+
+.navbar-brand{
+  font-size: 2rem;
+}
+
+.container-fluid{
+  margin-bottom: 0;
+  padding: 0;
+}
+
+/*----------------CONTACT----------------*/
+
+.contact-class{
+  text-align: center;
+  padding: 3% 0% 3% 0%;
+}
+
+a {
+  color: rgb(54, 54, 146);;
+}
+
+.bolden{
+  font-weight: 1000;
+  color: rgb(54, 54, 146);;
+}
+
+/*----------------d&c page----------------*/
+
+.subtitle{
+  margin-bottom: 2rem;
+}
+
+.dc_body{
+  background-color: white;
+  padding: 2% 15% 8% 15%;
+}
+
+.accordion{
+  padding: 0;
+}
+
+.card{
+  padding: 0;
+  margin: 0;
+}
+
+.card-body{
+  margin: 0;
+}
+
+#collapseOne{
+  padding: 0;
+  margin: 0;
+}
+
+#collapseTwo{
+  padding: 0;
+  margin: 0;
+}
+
+#collapseThree{
+  padding: 0;
+  margin: 0;
+}
+
+#collapseFour{
+  padding: 0;
+  margin: 0;
+}
+
+.btn-outline-info{
+  align-items:flex-end;
+}
+
+.comp-font{
+  font-family: 'Roboto Mono', monospace;
+  color:rgb(36, 34, 55);
+}
+
+.comp{
+  font-family: 'Roboto Mono', monospace;
+  background-color:rgb(36, 34, 55);
+  color:white;
+}
+
+.center{
+  display: block;
+  margin: auto;
+}
+
+.posters{
+  display: grid;
+  place-items: center;
+  background-color: rgb(36, 34, 55);
+  margin: 0;
+}
+
+
+/*----------------writing page----------------*/
+
+
+.writing_body{
+  background-color: white;
+  padding: 2% 15% 8% 15%;
+}
+
+.bordering{
+  border-style:solid;
+  border-width:1px;
+  border-color:rgb(36, 34, 55);
+  padding: 0;
+}
+
+#writ-type{
+  padding: 100px 100px 30px 100px;
+  text-align: center;
+}
+
+#written{
+  padding: 0% 10% 5% 10%;
+  /*padding: 0% 70% 0% 0%;
+  width: 80%;
+  height: 600px;*/
+  background-color:rgb(255, 255, 255); 
+  z-index: 1;
+  margin-right: 0%;
+  position:relative;
+  overflow:hidden;
+  /* height: 1000px; */
+}
+
+.nav-link{
+  color:white;
+} 
+
+.ms-3{
+  padding: 5% 0% 5% 20%;
+  margin: 15%;
+}
+
+.h4{
+  font-size: 2rem;
+  color:black;
+}
+
+.work-type-title{
+  padding: 0% 0% 3% 0%;
+  font-family: 'Fredericka the Great', serif; 
+  font-size: 2rem;
+  color: rgb(112, 106, 169);
+  margin-top: 2rem;
+}
+
+.work-title{
+  color:rgb(36, 34, 55);
+  padding: 5% 0% 0% 0%;
+  font-family: 'Fredericka the Great', serif;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 1rem;
+}
+
+.italicize-exp{
+  font-style:italic;
+  color:gray;
+}
+
+.link-to{
+  color:peru;
+  padding: 0% 0% 0% 0%;
+}
+
+.color-left{
+  background-color: rgb(36, 34, 55);
+  padding: 2% 0% 0% 0%;
+  margin: 0;
+  font-family: 'Fredericka the Great', serif; 
+}
+
+.work-section{
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.scroll-bg{
+  margin: 0% auto;
+  padding: 0%;
+}
+
+.scroll-div{
+  color: rgb(36, 34, 55);;
+  height: 800px;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.scroll-object{
+  padding: 2% 5% 40% 5%;
+}
+
+/*----------------Selected Visual Work----------------*/
+
+
+.svw_body{
+  background-color: white;
+  padding: 2% 15% 0% 15%;
+  height: 50%;
+}
+
+/* .carousel-wrapper {
+  display: flex;
+  gap: 20px;
+} */
+
+.gridwrap{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 2%;
+  row-gap: 2%;
+  padding: 20px;
+  justify-content: space-evenly;
+  outline: 0px solid white;
+}
+
+.gridwrap div {
+  color: rgb(63, 8, 8);
+  background-color: white;
+  border: 1px solid rgb(63, 8, 8);
+  padding: 5px;
+  font-size: 20px;
+  text-align: center;
+
+}
+
+.gridwrap div div {
+  background-color:white;
+  border: none;  /* no border here */
+  padding: 5px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.border-slides{
+  border: 1px solid rgb(63, 8, 8);
+  background-color:  rgb(63, 8, 8);
+}
+
+.fit{
+  max-width: 100%; 
+  height: auto;
+  border: 0.5px solid rgb(63, 8, 8);
+  border-radius: 0%;
+  /* width: 100%; 
+  height: 100%; 
+  object-fit: contain; */
+}
+
+.carousel{
+  background-color: rgb(63, 8, 8);
+  padding: 0;
+  margin-bottom: 0;
+}
+
+/* .slide{
+  border:1px solid white;
+} */
+
+.series-font{
+  color: rgb(63, 8, 8);
+}
+
+#copy-carousel{
+  text-align: center;
+  background-color: rgb(63, 8, 8);
+}
+
+.copy-color{
+  background-color: rgb(63, 8, 8);
+}
+
+.art-descip{
+  color:white;
+}
+
+.im-master{
+  height:400px;
+  width:auto; 
+  margin:15px;
+}
+
+.carousel-item{
+  padding: 1% 15% 4% 15%;
+  background-color: white;
+}
+
+.car-title{
+  font-size: 2rem;
+  color:white;
+  font-family: 'Fredericka the Great', serif;
+  padding: 2% 0% 0% 0%;
+  margin: 0%;
+}
+
+.new{
+  margin: 10% 0% 0% 0%;
+}
+
+h5{
+  font-style:italic;
+  color:white;
+}
+
+.carousel-item{
+  background-color: rgb(63, 8, 8);
+  margin-top: 1rem;
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+  
+}
+
+.carousel-control-prev{
+  height: 600px;
+}
+
+.carousel-control-next{
+  height: 600px;
+}
+
+
+.carousel-master{
+  background-color: rgb(63, 8, 8);
+  margin: 0;
+  padding: 0;
+  height: 600px;
+}
+
+.carousel-inner{
+  background-color: rgb(63, 8, 8); 
+  margin: 0;
+  padding: 0;
+  /* height: 650px; */
+}
+
+/*----------------About Me and Resume----------------*/
+
+.resume_body{
+  background-color: white;
+  padding: 2% 15% 0% 15%;
+  height: 50%;
+}
+
+.resume{
+  width: 100%;
+  height: 1000px; 
+  border: 1px solid rgb(63, 8, 8);
+  /* margin-left: auto; 
+  margin-right: auto; */
+  margin-bottom: 5%;
+}
+
+.personal{
+  width: 50%;
+  height: auto;
+}
+
+.blurb{
+  padding-bottom: 10%;
+}
+
+.side-by-side {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  font-size: 1rem;
+  padding: 0;
+
+}
+
+.side-by-side img {
+  width: 50%;
+  height: auto;
+}
+
+
+
+
+@media (max-width: 600px){ 
+  .center{
+    width: 200px;
+  }
+}
+
+@media (min-width: 600px){ 
+  .gridwrap{
+      display:grid;
+      grid-template-columns:1fr;
+  }
+  .center{
+    width: 400px;
+    height: auto;
+  }
+  
+
+}
+
+@media (min-width: 992px){
+  .gridwrap{
+     display:grid;
+     grid-template-columns:1fr 1fr 1fr;
+  }
+
+  footer{
+    font-size: 1.2rem;
+  }
+}

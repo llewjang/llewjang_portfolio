@@ -28,15 +28,24 @@ function checkWidth() {
                 <a class="link-to" href="https://heyzine.com/flip-book/69df72954c.html">Link to Lit Magazine</a>
               </div>
               <div id="item-2-2" class="work-section">
+                <h5 class="work-title">The Baby Flower, 2026</h5>
+                <p class="italicize-exp">My fears for the baby flower.</p>
+                <a class="link-to" href="files/The Baby Flower - Google Docs.pdf">Link to Poem</a>
+              </div>
+              <div id="item-2-3" class="work-section">
+                <h5 class="work-title">Like Rain, 2026</h5>
+                <p class="italicize-exp">You and me, down by the side.</p>
+                <a class="link-to" href="files/Like Rain - Google Docs.pdf">Link to Poem</a>
+              </div>
+              <div id="item-2-4" class="work-section">
+                <h5 class="work-title">Bug Problem, 2025</h5>
+                <p class="italicize-exp">Decisions, decisions. A poem exploring a person and a bug.</p>
+                <a class="link-to" href="files/Bug Problem - Google Docs.pdf">Link to Poem</a>
+              </div>
+              <div id="item-2-5" class="work-section">
                 <h5 class="work-title">Doorman, 2023</h5>
                 <p class="italicize-exp">A poem about a Door Man, possibility, and the vastness of existence.</p>
                 <a class="link-to" href="files/The Door Man - Google Docs.pdf">Link to Poem</a>
-              </div>
-              
-              <div id="item-2-3" class="work-section">
-                <h5 class="work-title">The Bug Problem, 2025</h5>
-                <p class="italicize-exp">Decisions, decisions. A poem exploring a person and a bug.</p>
-                <a class="link-to" href="files/The Bug Problem - Google Docs.pdf">Link to Poem</a>
               </div>
             </div>
           </div>
@@ -53,8 +62,10 @@ function checkWidth() {
               <a class="nav-link" href="#item-2">Creative/Expressive</a>
               <nav class="nav nav-pills flex-column">
                 <a class="nav-link ms-3 my-1" href="#item-2-1">Lit Mag: We'll Get Hungry On Mondays</a>
-                <a class="nav-link ms-3 my-1" href="#item-2-2">Poem: The Doorman</a>
-                <a class="nav-link ms-3 my-1" href="#item-2-3">Poem: The Bug Problem</a>
+                <a class="nav-link ms-3 my-1" href="#item-2-2">Poem: The Baby Flower</a>
+                <a class="nav-link ms-3 my-1" href="#item-2-3">Poem: Like Rain</a>
+                <a class="nav-link ms-3 my-1" href="#item-2-4">Poem: Bug Problem</a>
+                <a class="nav-link ms-3 my-1" href="#item-2-5">Poem: The Doorman</a>
               </nav>
             </nav>
           </div>
@@ -77,20 +88,28 @@ function checkWidth() {
                 <div id="item-2-1" class="work-section">
                   <h5 class="work-title">We'll Get Hungry On Mondays, Spring 2025</h5>
                   <p class="italicize-exp">A story inspired by my experiences with my grandparents, published in 
-                    UCSD Ellie's Echo Literary Magazine (Spring 2025 Issue). 
-                  </p>
+                    UCSD Ellie's Echo Literary Magazine (Spring 2025 Issue). </p>
                   <a class="link-to" href="https://heyzine.com/flip-book/69df72954c.html">Link to Lit Magazine</a>
                 </div>
                 <div id="item-2-2" class="work-section">
+                  <h5 class="work-title">The Baby Flower, 2026</h5>
+                  <p class="italicize-exp">My fears for the baby flower.</p>
+                  <a class="link-to" href="files/The Baby Flower - Google Docs.pdf">Link to Poem</a>
+                </div>
+                <div id="item-2-3" class="work-section">
+                  <h5 class="work-title">Like Rain, 2026</h5>
+                  <p class="italicize-exp">You and me, down by the side.</p>
+                  <a class="link-to" href="files/Like Rain - Google Docs.pdf">Link to Poem</a>
+                </div>
+                <div id="item-2-4" class="work-section">
+                  <h5 class="work-title">Bug Problem, 2025</h5>
+                  <p class="italicize-exp">Decisions, decisions. A poem exploring a person and a bug.</p>
+                  <a class="link-to" href="files/Bug Problem - Google Docs.pdf">Link to Poem</a>
+                </div>
+                <div id="item-2-5" class="work-section">
                   <h5 class="work-title">Doorman, 2023</h5>
                   <p class="italicize-exp">A poem about a Door Man, possibility, and the vastness of existence.</p>
                   <a class="link-to" href="files/The Door Man - Google Docs.pdf">Link to Poem</a>
-                </div>
-                
-                <div id="item-2-3" class="work-section">
-                  <h5 class="work-title">The Bug Problem, 2025</h5>
-                  <p class="italicize-exp">Decisions, decisions. A poem exploring a person and a bug.</p>
-                  <a class="link-to" href="files/The Bug Problem - Google Docs.pdf">Link to Poem</a>
                 </div>
               </div>
             </div>
